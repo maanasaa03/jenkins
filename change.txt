@@ -1,1 +1,1 @@
-this is a new commit for staing job
+this is a new commit for staging job
